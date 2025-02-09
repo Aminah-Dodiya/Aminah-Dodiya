@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋 Aminah here!
 
-<!--
-**Aminah-Dodiya/Aminah-Dodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Passionate about AI, Machine Learning, and Deep Learning**  
+🎓 **Background:** Researcher | Data Scientist | AI Enthusiast  
+📖 **Currently Working On:** MLOps projects  
+💡 **Interests:** Time Series Analysis | Computer Vision | NLP  
+🎯 **Goal (2025):** Contribute to open-source AI 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** Python, C, SQL  
+- **Machine Learning:** Scikit-Learn, XGBoost, Statsmodels  
+- **Deep Learning:** TensorFlow, PyTorch, Keras  
+- **Data Science:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, bokeh
+
+- ## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/aminah-dodiya-185192a8)  
+
+🔥 **Always exploring, always learning!** 🚀
